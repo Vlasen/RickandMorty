@@ -1,0 +1,8 @@
+/* color palette from <https://github.com/vuejs/theme> */
+:root {
+  font: Brush Script MT, Brush Script Std;
+  font-family: fantasy;
+  color: rgb(64, 181, 203);
+  text-shadow: 4px 4px 5px rgb(192, 223, 64);
+  -webkit-text-stroke: 1.5px rgb(18, 53, 62);
+}
